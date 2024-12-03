@@ -1,0 +1,1 @@
+# CMake configuration for testing
