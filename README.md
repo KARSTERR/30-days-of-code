@@ -1,7 +1,3 @@
-Here's a draft for your repository's `README.md`:
-
----
-
 # 30 Days of Code Challenge (HackerRank)
 
 Welcome to my **30 Days of Code** challenge repository! 🎯 This project showcases solutions for the HackerRank challenge, completed in **C++**. Each day, I tackle a new problem, improving my coding skills and problem-solving techniques.
