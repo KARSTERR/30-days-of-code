@@ -1,5 +1,11 @@
 # 30 Days of Code Challenge (HackerRank)
 
+![Build Status](https://img.shields.io/github/workflow/status/KARSTERR/30-days-of-code/CI?label=Build)
+![License](https://img.shields.io/github/license/KARSTERR/30-days-of-code)
+![Issues](https://img.shields.io/github/issues/KARSTERR/30-days-of-code)
+![Contributors](https://img.shields.io/github/contributors/KARSTERR/30-days-of-code)
+![Last Commit](https://img.shields.io/github/last-commit/KARSTERR/30-days-of-code)
+
 Welcome to my **30 Days of Code** challenge repository! 🎯 This project showcases solutions for the HackerRank challenge, completed in **C++**. Each day, I tackle a new problem, improving my coding skills and problem-solving techniques.
 
 ## Repository Structure
