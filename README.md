@@ -1,8 +1,8 @@
-# 30 Days of Code Challenge (HackerRank) 🚀
-
 <div align="center">
    <img src="images.jpg" alt="30daysofcode">
 </div>
+
+# 30 Days of Code Challenge (HackerRank) 🚀
 
 ![Build Status](https://img.shields.io/github/workflow/status/KARSTERR/30-days-of-code/CI?label=Build)
 ![License](https://img.shields.io/github/license/KARSTERR/30-days-of-code)
