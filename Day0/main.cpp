@@ -1,1 +1,15 @@
-// Solution for Day1
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
+
+int main() {
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */
+    string input;
+    getline(cin, input);
+    cout << "Hello, World." << endl;
+    cout << input;
+}
