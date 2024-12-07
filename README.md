@@ -46,7 +46,7 @@ Enjoy the challenge and keep coding! 🎯
 - [x] **Day 7**: Arrays
 - [x] **Day 8**: Dictionaries and Maps
 - [x] **Day 9**: Recursion 3
-- [ ] **Day 10**: Binary Numbers
+- [x] **Day 10**: Binary Numbers
 - [ ] **Day 11**: 2D Arrays
 - [ ] **Day 12**: Inheritance
 - [ ] **Day 13**: Abstract Classes
