@@ -36,16 +36,16 @@ Enjoy the challenge and keep coding! 🎯
 
 ## Progress Tracker ✅
 
-- [ ] **Day 0**: Hello, World!
-- [ ] **Day 1**: Data Types
-- [ ] **Day 2**: Operators
-- [ ] **Day 3**: Intro to Conditional Statements
-- [ ] **Day 4**: Class vs. Instance
-- [ ] **Day 5**: Loops
-- [ ] **Day 6**: Let's Review
-- [ ] **Day 7**: Arrays
-- [ ] **Day 8**: Dictionaries and Maps
-- [ ] **Day 9**: Recursion 3
+- [x] **Day 0**: Hello, World!
+- [x] **Day 1**: Data Types
+- [x] **Day 2**: Operators
+- [x] **Day 3**: Intro to Conditional Statements
+- [x] **Day 4**: Class vs. Instance
+- [x] **Day 5**: Loops
+- [x] **Day 6**: Let's Review
+- [x] **Day 7**: Arrays
+- [x] **Day 8**: Dictionaries and Maps
+- [x] **Day 9**: Recursion 3
 - [ ] **Day 10**: Binary Numbers
 - [ ] **Day 11**: 2D Arrays
 - [ ] **Day 12**: Inheritance
