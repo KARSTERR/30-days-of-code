@@ -1,1 +1,3 @@
-Placeholder output for Day8
+sam=99912222
+Not found
+harry=12299933
